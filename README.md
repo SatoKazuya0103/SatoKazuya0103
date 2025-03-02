@@ -7,6 +7,8 @@ I'm a software engineer specializing in full-stack web development and a compute
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
+<br>
+
 <div>
   ### 🛠️ My skills
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,express,nodejs,jest,sequelize,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman,gitlab,github,docker,aws,digitalocean&perline=13" />
