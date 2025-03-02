@@ -26,37 +26,6 @@ I'm a software engineer specializing in full-stack web development and a compute
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
-<div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
-</div>
-<br />
-<div>
-  <p align="middle">
-  <a href="https://www.linkedin.com/in/sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-  </a>
-  <a href="mailto:sagnikghoshmandra@gmail.com?subject=Hello%20Sagnik,%20From%20Github">
-  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Facebook-%230d8bf1?style=flat&logo=Facebook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/Sagnikghoshcr7">
-  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
-  </a>
-  <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=sagnikghoshcr7.sagnikghoshcr7" alt="Vistor Badge"></a>
-  </p>
-</div>
-
-<br />
-<br />
-
 [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 <div>
   <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
