@@ -27,12 +27,6 @@ I'm a software engineer specializing in full-stack web development and a compute
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <div>
-<a href="https://open.spotify.com/embed/playlist/6DDPsthhJTWi0Tnes8kXFo">
-  <img align="left" alt="Spotify Now Playing" src="https://spotify-sagnikghoshcr7.vercel.app/api/spotify" />
-</a>
-</div>
-
-<div>
   <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 </div>
 
