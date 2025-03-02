@@ -26,15 +26,6 @@ I'm a software engineer specializing in full-stack web development and a compute
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
-<div>
-  <img align="middle" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div>
-
-<!-- <div>
-  <img align="right" alt="GIF" height="300px" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/Readme%20Header.gif"/>
-</div> -->
-
 <!-- <div>
 [<img src="https://now-playing-vmk56a653q0yly06o3lmgi3g0.vercel.app/api/spotify-playing" alt="Sagnik Spotify Playing" width="350" />](https://open.spotify.com/playlist/6DDPsthhJTWi0Tnes8kXFo)
 </div> -->
