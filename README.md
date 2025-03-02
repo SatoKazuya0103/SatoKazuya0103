@@ -30,13 +30,15 @@ I'm a software engineer specializing in full-stack web development and a compute
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<div>
-  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
-</div>
+
 
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+<div>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+</div>
 
 <div align = "center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -69,29 +71,4 @@ I'm a software engineer specializing in full-stack web development and a compute
   <img align="center" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/BreakLine.gif"/>
 </div>
 
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
-<!--   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript" />&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
-  <br/>
-<!--   <img src="https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=dart&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <br/>
-  <br/>
-</p>
 
