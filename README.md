@@ -3,6 +3,10 @@
 ### 👨🏻‍💻 About me
 I'm a software engineer specializing in full-stack web development and a computer science student at Technological University of the Philippines. I thrive on tackling intricate challenges, constantly expanding my skill set, and delivering top-notch code that adheres to the highest standards and best practices in the industry.
 
+<div>
+  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
+</div>
+
 ### 🛠️ My skills
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,express,nodejs,jest,sequelize,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman,gitlab,github,docker,aws,digitalocean&perline=13" />
 
@@ -26,9 +30,7 @@ I'm a software engineer specializing in full-stack web development and a compute
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<div>
-  <img align="left" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
-</div>
+
 
 <br />
 <br />
